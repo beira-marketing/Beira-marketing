@@ -93,19 +93,19 @@ body {
 
 #banner-text{ 
     display: flex;
-    font-size: 400%;
+    font-size: 250%;
     text-align: center;
     padding-top: 10%;
-    padding-left: 18%;
-    padding-right: 18%;
+    padding-left: 19%;
+    padding-right: 19%;
+    margin-bottom: 15%;
     font-family: "Bebas Neue", sans-serif;
-    font-weight: 400;
     font-style: normal;
     text-shadow: 5px 5px #b6b6b6;
 }
 
 
-#about h1{ 
+#about h2{ 
     font-family: "Bebas Neue", sans-serif;
     font-size: 200%;
     padding-left: 45%;
@@ -178,7 +178,7 @@ body {
     margin-top: 300px;
 }
 
-#services h1{ 
+#services h2{ 
         font-family: "Bebas Neue", sans-serif;
         font-size: 200%;
         padding-left: 45%;
@@ -434,12 +434,12 @@ body {
     #banner-text {
         font-size: 300%;
         padding-top: 1px;
-        padding-left: 30%;
-        padding-right: 50%;
+        padding-left: 20%;
+        padding-right: 20%;
         margin-bottom: 70%;
     }
 
-    #about h1{ 
+    #about h2{ 
         color: black;
         padding-left:35%;
         padding-top: 1%;
@@ -482,7 +482,7 @@ body {
         font-size: 100%;
     }
 
-    #services h1{ 
+    #services h2{ 
         font-family: "Bebas Neue", sans-serif;
         font-size: 200%;
         padding-left: 33%;
